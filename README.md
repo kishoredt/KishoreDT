@@ -5,7 +5,8 @@
 -->
 
 - 🔭 I’m currently working on Open Source Contribution
-- 🌱 I’m currently learning DSA and OOPS
+- 🌱 I know DSA and OOPS
+- 🌱 I know ML
 
 ## Skill-Set
 
