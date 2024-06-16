@@ -37,16 +37,10 @@
 
 
 ## GitHub Stats
-<p>
-<a href="https://github.com/KishoreDT/KishoreDT">
-  <img src="https://github-readme-stats.vercel.app/api?username=KishoreDT&show_icons=true&hide=stars&bg_color=30,4568dc,b06ab3&title_color=fff&text_color=fff&icon_color=fff" border_radius = 5px />
-</a>
-</p>
-<p>
-<a href="https://github.com/KishoreDT/KishoreDT">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishoreDT&show_icons=true&bg_color=30,4568dc,b06ab3&title_color=fff&text_color=fff&icon_color=fff" border_radius = 5px />
-</a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KishoreDT&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KishoreDT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ## 📫 Connect with me<img src="handshake.gif" height="24px">
 [![](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white)](mailto:kishoredt@yahoo.com)
